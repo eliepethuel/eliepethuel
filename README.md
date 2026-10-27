@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+moi+c'est+Elie+;%C3%89tudiant+en+G%C3%A9nie+Logiciel+%F0%9F%8E%93;Full-Stack+%3A+Django+%E2%80%A2+Angular+%E2%80%A2+Flutter;Je+construis+des+solutions+qui+comptent+%F0%9F%9A%80;Bas%C3%A9+%C3%A0+Abidjan+%F0%9F%87%A8%F0%9F%87%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+moi+c'est+Elie+;%C3%89tudiant+en+G%C3%A9nie+Logiciel+%F0%9F%8E%93;Django+%E2%80%A2+React+%E2%80%A2+Angular+%E2%80%A2+Flutter;Je+construis+des+solutions+qui+comptent+%F0%9F%9A%80;Bas%C3%A9+%C3%A0+Abidjan+%F0%9F%87%A8%F0%9F%87%AE" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,8 @@ class Elie:
         self.focus     = ["Web Full-Stack", "Mobile", "Data & Automatisation"]
         self.stack     = {
             "backend":  ["Python", "Django", "Flask", "Java"],
-            "frontend": ["Angular", "TypeScript", "HTML/SCSS"],
+            "frontend": ["Angular", "React", "TypeScript", "Tailwind"],
+            "cloud":    ["Supabase", "PostgreSQL"],
             "mobile":   ["Flutter", "Dart"],
             "erp":      ["Odoo"],
         }
@@ -48,11 +49,11 @@ class Elie:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,java,ts,angular,html,css,sass,dart,flutter&perline=11" alt="stack 1"/>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,java,ts,js,angular,react,tailwind,dart,flutter&perline=11" alt="stack 1"/>
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,git,github,vscode,figma,postman,linux,docker&perline=10" alt="stack 2"/>
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,mysql,vite,git,github,vscode,figma,postman&perline=10" alt="stack 2"/>
   </a>
 </p>
 
@@ -67,28 +68,28 @@ class Elie:
   <a href="https://github.com/pethuelelie-glitch/GREENGAS_COMPLET">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=GREENGAS_COMPLET&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
   </a>
-  <a href="https://github.com/pethuelelie-glitch/Log-compta-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=Log-compta-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
-  </a>
-  <a href="https://github.com/pethuelelie-glitch/EdunotePro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=EdunotePro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
-  </a>
   <a href="https://github.com/pethuelelie-glitch/Agrimarket_ci">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=Agrimarket_ci&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
   </a>
-  <a href="https://github.com/pethuelelie-glitch/Vid-o-transcriber">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=Vid-o-transcriber&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  <a href="https://github.com/pethuelelie-glitch/Log-compta-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=Log-compta-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  </a>
+  <a href="https://github.com/pethuelelie-glitch/COFINANCE_CI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=COFINANCE_CI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  </a>
+  <a href="https://github.com/pethuelelie-glitch/it_parc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=it_parc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
   </a>
 </p>
 
-| Projet | Description |
-|---|---|
-| 🌊 **Kanivo** | Plateforme citoyenne et prédictive contre les inondations à Abidjan |
-| ⛽ **GreenGas** | Plateforme complète (Angular + backend Python) de gestion de gaz |
-| 📊 **Log-Compta-Pro** | Application web de comptabilité pour PME |
-| 🏫 **EdunotePro** | Gestion complète d'un établissement scolaire |
-| 🌾 **Agrimarket CI** | Marketplace agricole ivoirienne en Angular |
-| 🎬 **Vidéo-Transcriber** | Transcription vidéo → texte → document Word en Python |
+| Projet | Ce que c'est | Stack |
+|---|---|---|
+| 🌊 **[Kanivo](https://github.com/pethuelelie-glitch/kanivo)** · [**🔗 Démo live**](https://pethuelelie-glitch.github.io/kanivo/) | Plateforme citoyenne et prédictive contre les inondations à Abidjan, avec simulateur interactif — Lighthouse **100/100** desktop | Vite · JavaScript · GSAP · Canvas |
+| 🌿 **[GreenGas](https://github.com/pethuelelie-glitch/GREENGAS_COMPLET)** | Hackathon SIREXE 2026 : tri des déchets organiques → biogaz, électricité et digestat. 3 applis connectées (API, Control Center, mobile) | Django REST · JWT · React · Flutter |
+| 🌾 **[AgriMarket CI](https://github.com/pethuelelie-glitch/Agrimarket_ci)** | Marketplace agricole producteurs / acheteurs / livreurs avec supervision admin, 45 fichiers de tests | Angular 21 · Signals · TypeScript strict |
+| 📊 **[ComptaVision Pro](https://github.com/pethuelelie-glitch/Log-compta-pro)** | Comptabilité pour PME : tableau de bord, trésorerie, journal, exports PDF/Excel, rôles | React 19 · TanStack Start · Supabase (RLS) |
+| 🏦 **[Cofinance CI](https://github.com/pethuelelie-glitch/COFINANCE_CI)** | Microfinance : microcrédits, assurances, remboursements et chat en temps réel | Django REST · WebSockets · PostgreSQL |
+| 🖥️ **[IT Parc](https://github.com/pethuelelie-glitch/it_parc)** | Module ERP de gestion du parc informatique : affectations, maintenances, contrats, alertes, dashboard | Odoo 18 · Python · OWL |
 
 ---
 
