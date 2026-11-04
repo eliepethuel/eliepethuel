@@ -1,0 +1,97 @@
+name: Generate stats cards
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # tous les jours à 6h UTC
+  workflow_dispatch:          # lancement manuel possible
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-commit
+  cancel-in-progress: false
+
+env:
+  THEME: theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Carte de statistiques
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&rank_icon=github&${{ env.THEME }}
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Carte des langages
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&${{ env.THEME }}
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Carte Kanivo
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=kanivo&${{ env.THEME }}
+          path: profile/pin-kanivo.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Carte GreenGas
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=GREENGAS_COMPLET&${{ env.THEME }}
+          path: profile/pin-GREENGAS_COMPLET.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Carte AgriMarket
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Agrimarket_ci&${{ env.THEME }}
+          path: profile/pin-Agrimarket_ci.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Carte ComptaVision
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=Log-compta-pro&${{ env.THEME }}
+          path: profile/pin-Log-compta-pro.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Carte Cofinance
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=COFINANCE_CI&${{ env.THEME }}
+          path: profile/pin-COFINANCE_CI.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Carte IT Parc
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=it_parc&${{ env.THEME }}
+          path: profile/pin-it_parc.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile
+          if git commit -m "chore: mise à jour des cartes de stats"; then
+            git pull --rebase
+            git push
+          fi

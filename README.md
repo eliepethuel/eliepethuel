@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pethuelelie-glitch&label=Visites%20du%20profil&color=00c9a7&style=for-the-badge" alt="profile views"/>
-  <a href="https://github.com/pethuelelie-glitch?tab=followers"><img src="https://img.shields.io/github/followers/pethuelelie-glitch?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=eliepethuel&label=Visites%20du%20profil&color=00c9a7&style=for-the-badge" alt="profile views"/>
+  <a href="https://github.com/eliepethuel?tab=followers"><img src="https://img.shields.io/github/followers/eliepethuel?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="followers"/></a>
   <a href="mailto:pethuelelie@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20contacter-00c9a7?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
@@ -62,54 +62,46 @@ class Elie:
 ## 🚀 Projets phares
 
 <p align="center">
-  <a href="https://github.com/pethuelelie-glitch/kanivo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=kanivo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  <a href="https://github.com/eliepethuel/kanivo">
+    <img src="./profile/pin-kanivo.svg" />
   </a>
-  <a href="https://github.com/pethuelelie-glitch/GREENGAS_COMPLET">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=GREENGAS_COMPLET&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  <a href="https://github.com/eliepethuel/GREENGAS_COMPLET">
+    <img src="./profile/pin-GREENGAS_COMPLET.svg" />
   </a>
-  <a href="https://github.com/pethuelelie-glitch/Agrimarket_ci">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=Agrimarket_ci&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  <a href="https://github.com/eliepethuel/Agrimarket_ci">
+    <img src="./profile/pin-Agrimarket_ci.svg" />
   </a>
-  <a href="https://github.com/pethuelelie-glitch/Log-compta-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=Log-compta-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  <a href="https://github.com/eliepethuel/Log-compta-pro">
+    <img src="./profile/pin-Log-compta-pro.svg" />
   </a>
-  <a href="https://github.com/pethuelelie-glitch/COFINANCE_CI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=COFINANCE_CI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  <a href="https://github.com/eliepethuel/COFINANCE_CI">
+    <img src="./profile/pin-COFINANCE_CI.svg" />
   </a>
-  <a href="https://github.com/pethuelelie-glitch/it_parc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pethuelelie-glitch&repo=it_parc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7" />
+  <a href="https://github.com/eliepethuel/it_parc">
+    <img src="./profile/pin-it_parc.svg" />
   </a>
 </p>
 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
-| 🌊 **[Kanivo](https://github.com/pethuelelie-glitch/kanivo)** · [**🔗 Démo live**](https://pethuelelie-glitch.github.io/kanivo/) | Plateforme citoyenne et prédictive contre les inondations à Abidjan, avec simulateur interactif — Lighthouse **100/100** desktop | Vite · JavaScript · GSAP · Canvas |
-| 🌿 **[GreenGas](https://github.com/pethuelelie-glitch/GREENGAS_COMPLET)** | Hackathon SIREXE 2026 : tri des déchets organiques → biogaz, électricité et digestat. 3 applis connectées (API, Control Center, mobile) | Django REST · JWT · React · Flutter |
-| 🌾 **[AgriMarket CI](https://github.com/pethuelelie-glitch/Agrimarket_ci)** | Marketplace agricole producteurs / acheteurs / livreurs avec supervision admin, 45 fichiers de tests | Angular 21 · Signals · TypeScript strict |
-| 📊 **[ComptaVision Pro](https://github.com/pethuelelie-glitch/Log-compta-pro)** | Comptabilité pour PME : tableau de bord, trésorerie, journal, exports PDF/Excel, rôles | React 19 · TanStack Start · Supabase (RLS) |
-| 🏦 **[Cofinance CI](https://github.com/pethuelelie-glitch/COFINANCE_CI)** | Microfinance : microcrédits, assurances, remboursements et chat en temps réel | Django REST · WebSockets · PostgreSQL |
-| 🖥️ **[IT Parc](https://github.com/pethuelelie-glitch/it_parc)** | Module ERP de gestion du parc informatique : affectations, maintenances, contrats, alertes, dashboard | Odoo 18 · Python · OWL |
+| 🌊 **[Kanivo](https://github.com/eliepethuel/kanivo)** · [**🔗 Démo live**](https://eliepethuel.github.io/kanivo/) | Plateforme citoyenne et prédictive contre les inondations à Abidjan, avec simulateur interactif — Lighthouse **100/100** desktop | Vite · JavaScript · GSAP · Canvas |
+| 🌿 **[GreenGas](https://github.com/eliepethuel/GREENGAS_COMPLET)** | Hackathon SIREXE 2026 : tri des déchets organiques → biogaz, électricité et digestat. 3 applis connectées (API, Control Center, mobile) | Django REST · JWT · React · Flutter |
+| 🌾 **[AgriMarket CI](https://github.com/eliepethuel/Agrimarket_ci)** | Marketplace agricole producteurs / acheteurs / livreurs avec supervision admin, 45 fichiers de tests | Angular 21 · Signals · TypeScript strict |
+| 📊 **[ComptaVision Pro](https://github.com/eliepethuel/Log-compta-pro)** | Comptabilité pour PME : tableau de bord, trésorerie, journal, exports PDF/Excel, rôles | React 19 · TanStack Start · Supabase (RLS) |
+| 🏦 **[Cofinance CI](https://github.com/eliepethuel/COFINANCE_CI)** | Microfinance : microcrédits, assurances, remboursements et chat en temps réel | Django REST · WebSockets · PostgreSQL |
+| 🖥️ **[IT Parc](https://github.com/eliepethuel/it_parc)** | Module ERP de gestion du parc informatique : affectations, maintenances, contrats, alertes, dashboard | Odoo 18 · Python · OWL |
 
 ---
 
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pethuelelie-glitch&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pethuelelie-glitch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7" alt="top langs"/>
+  <img height="170" src="./profile/stats.svg" alt="stats"/>
+  <img height="170" src="./profile/top-langs.svg" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pethuelelie-glitch&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pethuelelie-glitch&bg_color=0d1117&color=00c9a7&line=00c9a7&point=ffffff&area=true&area_color=00c9a7&hide_border=true&custom_title=Mon%20activit%C3%A9%20de%20contribution" width="100%" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pethuelelie-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img src="https://streak-stats.demolab.com?user=eliepethuel&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="streak"/>
 </p>
 
 ---
@@ -137,9 +129,9 @@ class Elie:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pethuelelie-glitch/pethuelelie-glitch/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pethuelelie-glitch/pethuelelie-glitch/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/pethuelelie-glitch/pethuelelie-glitch/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliepethuel/eliepethuel/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliepethuel/eliepethuel/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/eliepethuel/eliepethuel/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -149,7 +141,7 @@ class Elie:
 
 <p align="center">
   <a href="mailto:pethuelelie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/pethuelelie-glitch/PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://github.com/eliepethuel/PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <!-- Décommente et remplace par ton lien LinkedIn :
   <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   -->
