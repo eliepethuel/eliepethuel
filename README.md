@@ -121,6 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
+1. ⬆️ A poussé du code sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
+2. 🌿 A créé la branche `bug/retour-renvoi-formulaire` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
+3. 🌿 A créé la branche `feature/tests` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
+4. 🌿 A créé la branche `bug/email-inconnu-crash` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
+5. 🌿 A créé la branche `bug/places-invalides-crash` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
+6. 🌿 A créé la branche `bug/reservation-url-invalide` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
 <!--END_SECTION:activity-->
 
 ---

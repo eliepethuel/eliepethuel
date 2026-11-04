@@ -20,9 +20,17 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Mettre à jour l'activité récente du README
-        uses: jamesgeorge007/github-activity-readme@v0.5.0
+        run: python .github/scripts/activity.py
         env:
+          GH_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "chore: mise à jour de l'activité récente"
-          MAX_LINES: 6
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git commit -m "chore: mise à jour de l'activité récente"; then
+            git pull --rebase
+            git push
+          fi
