@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ A poussé du code sur [chiffrement_de_cesar](https://github.com/eliepethuel/chiffrement_de_cesar)
-2. ⬆️ A poussé du code sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
-3. 🌿 A créé la branche `bug/retour-renvoi-formulaire` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
-4. 🌿 A créé la branche `feature/tests` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
-5. 🌿 A créé la branche `bug/email-inconnu-crash` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
-6. 🌿 A créé la branche `bug/places-invalides-crash` sur [Python_Testing_2627](https://github.com/eliepethuel/Python_Testing_2627)
+1. 🌿 A créé la branche `main` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+2. ⬆️ A poussé du code sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+3. 🌿 A créé la branche `feat/projects-collaboration` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+4. 🌿 A créé la branche `docs/p0-readme` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+5. 🌿 A créé la branche `feat/moderation` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+6. 🌿 A créé la branche `feat/search` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
 <!--END_SECTION:activity-->
 
 ---
