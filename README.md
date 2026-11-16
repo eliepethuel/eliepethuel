@@ -121,8 +121,8 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. 🌿 A créé la branche `feat/profile-photo` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
-2. ⬆️ A poussé du code sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+1. ⬆️ A poussé du code sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+2. 🌿 A créé la branche `feat/profile-photo` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
 3. 🌿 A créé la branche `feat/admin-jazzmin` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
 4. 🌿 A créé la branche `main` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
 5. 🌿 A créé la branche `feat/projects-collaboration` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
