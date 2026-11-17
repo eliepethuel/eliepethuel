@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. 🌿 A créé la branche `feat/notifications` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
-2. ⬆️ A poussé du code sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
-3. 🌿 A créé la branche `feat/frontend-motion` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
-4. 🌿 A créé la branche `feat/accounts-auth` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
-5. 🌿 A créé la branche `feat/profile-photo` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
-6. 🌿 A créé la branche `feat/admin-jazzmin` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+1. 🌿 A créé la branche `feat/video-presentation` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+2. 🌿 A créé la branche `feat/p1-reputation` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+3. 🌿 A créé la branche `feat/demo-seed` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+4. 🌿 A créé la branche `feat/notifications` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+5. ⬆️ A poussé du code sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+6. 🌿 A créé la branche `feat/frontend-motion` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
 <!--END_SECTION:activity-->
 
 ---
