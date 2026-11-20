@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-2. 🌿 A créé la branche `fix/dev-loopback-ipv4` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-3. 🌿 A créé la branche `style/frontend-prettier` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-4. 🌿 A créé la branche `chore/frontend-tooling` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-5. 🌿 A créé la branche `feat/video-presentation` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
-6. 🌿 A créé la branche `feat/p1-reputation` sur [CADEV_PROJECT](https://github.com/eliepethuel/CADEV_PROJECT)
+1. 🌿 A créé la branche `feat/app-shell` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+2. 🌿 A créé la branche `feat/settings-page` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+3. 🌿 A créé la branche `feat/login-mfa` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+4. 🌿 A créé la branche `build/frontend-phase1-deps` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+5. 🌿 A créé la branche `feat/frontend-api-client-phase1` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+6. 🌿 A créé la branche `feat/agents-screens` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 <!--END_SECTION:activity-->
 
 ---
