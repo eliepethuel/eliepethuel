@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. 🌿 A créé la branche `feat/app-shell` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-2. 🌿 A créé la branche `feat/settings-page` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-3. 🌿 A créé la branche `feat/login-mfa` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-4. 🌿 A créé la branche `build/frontend-phase1-deps` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-5. 🌿 A créé la branche `feat/frontend-api-client-phase1` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-6. 🌿 A créé la branche `feat/agents-screens` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+1. 🌿 A créé la branche `docs/user-guide` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+2. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+3. 🌿 A créé la branche `feat/checkins-correction-badge` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+4. 🌿 A créé la branche `main` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+5. 🌿 A créé la branche `feat/echarts-wrapper` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+6. 🌿 A créé la branche `feat/notifications` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 <!--END_SECTION:activity-->
 
 ---
