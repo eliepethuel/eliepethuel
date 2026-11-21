@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. 🌿 A créé la branche `docs/user-guide` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+1. 🌿 A créé la branche `feat/my-history-ui` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 2. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-3. 🌿 A créé la branche `feat/checkins-correction-badge` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-4. 🌿 A créé la branche `main` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-5. 🌿 A créé la branche `feat/echarts-wrapper` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-6. 🌿 A créé la branche `feat/notifications` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+3. 🌿 A créé la branche `feat/scheduled-jobs` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+4. 🌿 A créé la branche `fix/e2e-prepare-typing` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+5. 🌿 A créé la branche `fix/no-absence-before-joining` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+6. 🌿 A créé la branche `feat/agent-phone-state` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 <!--END_SECTION:activity-->
 
 ---
