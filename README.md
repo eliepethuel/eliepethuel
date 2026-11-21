@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. 🌿 A créé la branche `feat/my-history-ui` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-2. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-3. 🌿 A créé la branche `feat/scheduled-jobs` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-4. 🌿 A créé la branche `fix/e2e-prepare-typing` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-5. 🌿 A créé la branche `fix/no-absence-before-joining` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-6. 🌿 A créé la branche `feat/agent-phone-state` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+1. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+2. 🌿 A créé la branche `docs/plan-tree-cleanup` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+3. 🌿 A créé la branche `fix/magnetic-reveal-transition` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+4. 🌿 A créé la branche `docs/e2e-tests` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+5. 🌿 A créé la branche `chore/release-1.0.0` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+6. 🌿 A créé la branche `fix/env-secret-generation` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 <!--END_SECTION:activity-->
 
 ---
