@@ -122,11 +122,11 @@ class Elie:
 
 <!--START_SECTION:activity-->
 1. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-2. 🌿 A créé la branche `docs/plan-tree-cleanup` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-3. 🌿 A créé la branche `fix/magnetic-reveal-transition` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-4. 🌿 A créé la branche `docs/e2e-tests` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-5. 🌿 A créé la branche `chore/release-1.0.0` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-6. 🌿 A créé la branche `fix/env-secret-generation` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+2. 🌿 A créé la branche `feat/frontend-api-client-phase2` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+3. 🌿 A créé la branche `feat/api-phase2-wiring` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+4. 🌿 A créé la branche `feat/kiosks` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+5. 🌿 A créé la branche `chore/lint-tuning` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+6. 🌿 A créé la branche `feat/backoffice-kiosks-checkins` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 <!--END_SECTION:activity-->
 
 ---
