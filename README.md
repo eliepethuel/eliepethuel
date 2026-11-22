@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-2. 🌿 A créé la branche `feat/frontend-api-client-phase2` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-3. 🌿 A créé la branche `feat/api-phase2-wiring` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-4. 🌿 A créé la branche `feat/kiosks` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-5. 🌿 A créé la branche `chore/lint-tuning` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-6. 🌿 A créé la branche `feat/backoffice-kiosks-checkins` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+1. 🌿 A créé la branche `fix/request-approval-atomic` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+2. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+3. 🌿 A créé la branche `fix/garnet-celery-worker` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+4. 🌿 A créé la branche `feat/loadtest-r10` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+5. 🌿 A créé la branche `feat/command-palette` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+6. 🌿 A créé la branche `feat/retention-guard` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 <!--END_SECTION:activity-->
 
 ---
