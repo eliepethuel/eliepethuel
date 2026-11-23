@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. 🌿 A créé la branche `chore/native-dev-tooling` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-2. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-3. 🌿 A créé la branche `fix/health-redis-pool` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-4. 🌿 A créé la branche `feat/motion-system` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-5. 🌿 A créé la branche `feat/schedules-models` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-6. 🌿 A créé la branche `feat/organization` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+1. 🌿 A créé la branche `feat/sites-map` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+2. 🌿 A créé la branche `feat/api-json-bodies` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+3. 🌿 A créé la branche `feat/attendance-checkins` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+4. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+5. 🌿 A créé la branche `feat/common-request-helpers` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+6. 🌿 A créé la branche `build/phase1-dependencies` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 <!--END_SECTION:activity-->
 
 ---
