@@ -121,12 +121,12 @@ class Elie:
 ## ⚡ Activité récente
 
 <!--START_SECTION:activity-->
-1. 🌿 A créé la branche `fix/requests-stale-after-decision` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-2. 🌿 A créé la branche `feat/frontend-api-client-phase3` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-3. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-4. 🌿 A créé la branche `chore/db-tasks-notices` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-5. 🌿 A créé la branche `feat/api-phase3-wiring` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
-6. 🌿 A créé la branche `build/docker-api` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+1. ⬆️ A poussé du code sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+2. 🌿 A créé la branche `build/typecheck-templates` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+3. 🌿 A créé la branche `fix/kiosk-qr-readability` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+4. 🌿 A créé la branche `ci/playwright-annotations` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+5. 🌿 A créé la branche `fix/platform-template-typing` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
+6. 🌿 A créé la branche `fix/requests-stale-after-decision` sur [POINTQR](https://github.com/eliepethuel/POINTQR)
 <!--END_SECTION:activity-->
 
 ---
